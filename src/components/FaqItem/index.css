@@ -1,0 +1,29 @@
+/* Write your code here. */
+.list-item-container {
+  border: 2px solid #d7dae6;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.question-button-container {
+  display: flex;
+  justify-content: space-between;
+}
+.plus-minus-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.hr-line {
+  border-top: 2px solid #e4e7eb;
+}
+.question {
+  font-family: 'Roboto';
+  color: #52606d;
+}
+
+.answer {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
